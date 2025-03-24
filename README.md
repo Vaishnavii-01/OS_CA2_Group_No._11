@@ -12,7 +12,7 @@ The detailed presentation on Microservices Architecture, including a case study 
 
 The following research papers provide in-depth analysis and comparisons between monolithic and microservices architectures :
 
-1. **Springer Paper**: [MicroServices-driven Enterprise Architecture Model for Infrastructure Optimization](#)  
-2. **IEEE Paper**: [Monolithic vs. Microservice Architecture: A Performance and Scalability Evaluation](#)
+1. **Springer Paper** : [MicroServices-driven Enterprise Architecture Model for Infrastructure Optimization](#)  
+2. **IEEE Paper** : [Monolithic vs. Microservice Architecture: A Performance and Scalability Evaluation](#)
 
 These papers delve into the implementation, benefits, and challenges of microservices architectures, offering valuable insights into their performance and scalability.
