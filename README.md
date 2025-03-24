@@ -16,3 +16,9 @@ The following research papers provide in-depth analysis and comparisons between 
 2. **IEEE Paper** : [Monolithic vs. Microservice Architecture: A Performance and Scalability Evaluation](https://ieeexplore.ieee.org/abstract/document/9717259)
 
 These papers delve into the implementation, benefits, and challenges of microservices architectures, offering valuable insights into their performance and scalability.
+
+## Summary Report
+
+For a detailed overview, you can refer to the following link :
+
+- [OS CA2 Summary Report Document](https://docs.google.com/document/d/1R4kP2qp7bV9Ztt1GR-tWs1JHnSLyTr4bGe-o6MgY1OI/edit?usp=sharing)
